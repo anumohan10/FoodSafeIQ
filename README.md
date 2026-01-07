@@ -1,4 +1,4 @@
-# 🍴 Food Establishment Inspection Analysis
+# 🍴 FoodSafeIQ - Food Establishment Inspection Analysis
 
 ## 📌 Project Overview
 This project analyzes food establishment inspection data from **Chicago** and **Dallas** using a full **data pipeline and BI stack**. The goal is to improve public health visibility by identifying inspection outcomes, risk categories, violations, and facility performance trends.  
